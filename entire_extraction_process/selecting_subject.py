@@ -14,9 +14,8 @@ def select_subject(num_tag_text: str, person_id = 0) -> [str]:
     ############################################################################################################################################
 
     
-    # Add special tokens for people
-    for i in range(200):
-        nlp.tokenizer.add_special_case(f"[{i}]", [{ORTH: f"[{i}]"}])
+    # Add special token for our main subject. I'm assuming that only the 0th person is tagged.
+    nlp.tokenizer.add_special_case(f"[0]", [{ORTH: f"[0]"}])
 
     doc = nlp(num_tag_text) #The text that has all people replaced with numbered tags is now processed through spacy
     assert doc.has_annotation("SENT_START")
