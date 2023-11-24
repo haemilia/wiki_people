@@ -16,7 +16,7 @@ def divide_sections_no_summary(people_dict: dict,real_flatten = category_tagger.
         divided_dict[name] = sections_dict
     return divided_dict
 
-def save_json(filename:str, json_content: dict, path = MAIN_PATH / "coref_output"):
+def save_json(filename:str, json_content: dict, path / "coref_output"):
     # Just helper function
     with open(path / filename, "w") as json_file:
         json.dump(json_content, json_file)
@@ -28,8 +28,25 @@ def coref_divided(divided_dict: dict, save_json = save_json):
             json_content = {topic: coref_result}
             print(f"completed: {topic} of {name}")
             save_json(f"{name}_{id}_coref.json",json_content, MAIN_PATH / "all_coref_output")
+            
+def coref_divided_edit(divided_dict: dict):
+    for name, content in divided_dict.items():
+      final_json = {}
+      for id, (topic, t_content) in enumerate(list(content.items())):
+        json_content = {}
+        for id2, (topic2, t_content2) in enumerate(list(t_content.items())):
+            if type(t_content2) == float:
+              coref_result = ''
+            else:
+              coref_result = coref_tag_v2.coreference_tag(t_content2)
+            json_content[topic2] = coref_result
+        final_json[topic] = json_content
+        print(f"completed: {topic} of {name}")
+        with open(f'{name}_coref.json', 'w') as file:
+            json.dump(final_json, file)
+            # save_json(f"{name}_{id}_coref.json",json_content, path / "all_coref_output")
 
-def main():
+#def main():
     ## 내가 실제로 진행했던 흐름:
 
     # MAIN_PATH = Path(r"C:\Users\lhi30\Haein\2023\YBIGTA\2023-2\DA\Wiki_People\Share")
