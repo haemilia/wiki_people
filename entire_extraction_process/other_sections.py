@@ -42,8 +42,9 @@ def coref_divided_edit(divided_dict: dict):
             json_content[topic2] = coref_result
         final_json[topic] = json_content
         print(f"completed: {topic} of {name}")
-        with open(f'{name}_coref.json', 'w') as file:
-            json.dump(final_json, file)
+      result_json = {name : final_json}
+      with open(f'{name}_coref.json', 'w') as file:
+          json.dump(result_json, file)
             # save_json(f"{name}_{id}_coref.json",json_content, path / "all_coref_output")
 
 #def main():
