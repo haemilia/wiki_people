@@ -4,6 +4,7 @@ import spacy
 from allennlp.predictors.predictor import Predictor
 
 predictor = Predictor.from_path(config.MODEL_URL)
+result = ''
 
 def coreference_tag(input_text: str, predictor = predictor) -> str:
     
