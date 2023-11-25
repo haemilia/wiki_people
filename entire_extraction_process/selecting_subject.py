@@ -27,7 +27,7 @@ def select_subject(num_tag_text: str, person_id = 0) -> [str]:
             if((token.dep_ == "nsubj" or token.dep_ == "nsubjpass") and # If the token is an active or passive subject
                token.text == f"[{person_id}]" and # If the token is referring to the person we're interested in
                not sentence_added):# If we haven't added this sentence to selected_sentences before
-                selected_sentences.append(sent) # Then, we can add the sentence to the list
+                selected_sentences.append(sent.text) # Then, we can add the sentence to the list
                 sentence_added = True
     return selected_sentences
 

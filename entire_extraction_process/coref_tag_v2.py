@@ -16,6 +16,7 @@ def coreference_tag(input_text: str, predictor = predictor) -> str:
     #긴 것을 후순위로 보냄으로써 짧은 인물을 덮어쓰게 하기 위함임.
 
     resolved = list(tok.text_with_ws for tok in spacy_document)
+    result = ""
 
     for cluster in dict_clusters_sorted:
     # The main mention is the first item in the cluster
@@ -70,5 +71,6 @@ def coreference_tag(input_text: str, predictor = predictor) -> str:
                 for i in range(coref[0] + 1, coref[1] + 1):
                     resolved[i] = ""
 
+        
         result = "".join(resolved)
     return result

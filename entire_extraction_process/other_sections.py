@@ -38,13 +38,18 @@ def coref_divided_edit(divided_dict: dict):
             if type(t_content2) == float:
               coref_result = ''
             else:
-              coref_result = coref_tag_v2.coreference_tag(t_content2)
+              try:
+                 coref_result = coref_tag_v2.coreference_tag(f"{name} is our person to focus on. " + t_content2)
+              except Exception as e:
+                 print(e)
+                 print(f"There was an error with {name}'s {topic} and {topic2}")
+                 coref_result = ''
             json_content[topic2] = coref_result
         final_json[topic] = json_content
         print(f"completed: {topic} of {name}")
-        with open(f'{name}_coref.json', 'w') as file:
-            json.dump(final_json, file)
-            # save_json(f"{name}_{id}_coref.json",json_content, path / "all_coref_output")
+        # with open(f'{name}_coref.json', 'w') as file:
+        #     json.dump(final_json, file)
+      save_json(f"{name}_coref.json",final_json, MAIN_PATH / "all_coref_output")
 
 #def main():
     ## 내가 실제로 진행했던 흐름:
