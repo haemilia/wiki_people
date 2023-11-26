@@ -1,11 +1,11 @@
-year,age,event,category1,category2
-1864,10,"Oscar Wilde excelled academically, particularly in the subject of Classics, in which Oscar Wilde ranked fourth in Portora Royal School in Enniskillen, County Fermanagh, which he attended from 1864 to 1871 in 1869.",Early life,
-1877,23,"In 1877, Oscar Wilde was left speechless after an audience with Pope Pius IX in Rome.",University education: 1870s,"Magdalen College, Oxford"
-1881,27,"In London, Oscar Wilde had been introduced in 1881 to Constance Lloyd, daughter of Horace Lloyd, a wealthy Queen's Counsel.",Apprenticeship of an aesthete: 1880s,London life and marriage
-1888,34,"Oscar Wilde published The Happy Prince and Other Tales in 1888, and had been regularly writing fairy stories for magazines.",Prose writing: 1886–1891,Shorter fiction
-1890,36,"Oscar Wilde was published as the lead story in the July 1890 edition of Lippincott's Monthly Magazine, along with five others.",Prose writing: 1886–1891,The Picture of Dorian Gray
-1894,40,"Oscar Wilde was commissioned to write two more plays and An Ideal Husband, written in 1894, followed in January 1895.Peter",Theatrical career: 1892–1895,Comedies of society
-1843,-11,"Under the 1843 Libel Act, Oscar Wilde could avoid conviction for libel only by demonstrating that a public accusation that Wilde had committed the crime of sodomy was in fact true, and furthermore that there was some ""public benefit"" to having made a public accusation that Wilde had committed the crime of sodomy openly.",Trials,Wilde v Queensberry
-1895,41,"On 6 April 1895, Oscar Wilde was arrested for ""gross indecency"" under Section 11 of the Criminal Law Amendment Act 1885, a term meaning homosexual acts not amounting to buggery (an offence under a separate statute).",Trials,Regina v Wilde
-1900,46,"By 25 November 1900, Oscar Wilde had developed meningitis, then called ""cerebral meningitis"".",Decline: 1897–1900,Death
-1995,141,"On 14 February 1995, Oscar Wilde was commemorated with a stained-glass window at Poets' Corner in Westminster Abbey.",Decline: 1897–1900,Honours
+year,age,event,category1,category2,Name
+1864,10,"Oscar Wilde excelled academically, particularly in the subject of Classics, in which Oscar Wilde ranked fourth in Portora Royal School in Enniskillen, County Fermanagh, which he attended from 1864 to 1871 in 1869.",Early life,,Oscar Wilde
+1877,23,"In 1877, Oscar Wilde was left speechless after an audience with Pope Pius IX in Rome.",University education: 1870s,"Magdalen College, Oxford",Oscar Wilde
+1881,27,"In London, Oscar Wilde had been introduced in 1881 to Constance Lloyd, daughter of Horace Lloyd, a wealthy Queen's Counsel.",Apprenticeship of an aesthete: 1880s,London life and marriage,Oscar Wilde
+1888,34,"Oscar Wilde published The Happy Prince and Other Tales in 1888, and had been regularly writing fairy stories for magazines.",Prose writing: 1886–1891,Shorter fiction,Oscar Wilde
+1890,36,"Oscar Wilde was published as the lead story in the July 1890 edition of Lippincott's Monthly Magazine, along with five others.",Prose writing: 1886–1891,The Picture of Dorian Gray,Oscar Wilde
+1894,40,"Oscar Wilde was commissioned to write two more plays and An Ideal Husband, written in 1894, followed in January 1895.Peter",Theatrical career: 1892–1895,Comedies of society,Oscar Wilde
+1843,-11,"Under the 1843 Libel Act, Oscar Wilde could avoid conviction for libel only by demonstrating that a public accusation that Wilde had committed the crime of sodomy was in fact true, and furthermore that there was some ""public benefit"" to having made a public accusation that Wilde had committed the crime of sodomy openly.",Trials,Wilde v Queensberry,Oscar Wilde
+1895,41,"On 6 April 1895, Oscar Wilde was arrested for ""gross indecency"" under Section 11 of the Criminal Law Amendment Act 1885, a term meaning homosexual acts not amounting to buggery (an offence under a separate statute).",Trials,Regina v Wilde,Oscar Wilde
+1900,46,"By 25 November 1900, Oscar Wilde had developed meningitis, then called ""cerebral meningitis"".",Decline: 1897–1900,Death,Oscar Wilde
+1995,141,"On 14 February 1995, Oscar Wilde was commemorated with a stained-glass window at Poets' Corner in Westminster Abbey.",Decline: 1897–1900,Honours,Oscar Wilde

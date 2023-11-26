@@ -1,5 +1,5 @@
-year,age,event,category1,category2
-1872,0,"Sri Aurobindo was born in Calcutta (now Kolkata), Bengal Presidency, India on 15 August 1872 in a Bengali Kayastha family that was associated with the village of Konnagar in the Hooghly district of present-day West Bengal.",Biography,Early life
-1897,25,"In 1897 during Sri Aurobindo's work in Baroda, Sri Aurobindo started working as a part-time French teacher at Baroda College (now Maharaja Sayajirao University of Baroda). Sri Aurobindo was later promoted to the post of vice-principal.",Biography,Baroda and Calcutta (1893–1910)
-1908,36,Sri Aurobindo was arrested again in May 1908 in connection with the Alipore Bomb Case.,Biography,Baroda and Calcutta (1893–1910)
-1950,78,"When Sri Aurobindo died in 1950, Sri Aurobindo's close spiritual collaborator, Mirra Alfassa (born Alfassa) continued them's spiritual work, directed the ashram, the community of disciples which had gathered around them, and guided them's disciples.",Biography,Mirra Alfassa (The Mother) and the development of the Ashram
+year,age,event,category1,category2,Name
+1872,0,"Sri Aurobindo was born in Calcutta (now Kolkata), Bengal Presidency, India on 15 August 1872 in a Bengali Kayastha family that was associated with the village of Konnagar in the Hooghly district of present-day West Bengal.",Biography,Early life,Sri Aurobindo
+1897,25,"In 1897 during Sri Aurobindo's work in Baroda, Sri Aurobindo started working as a part-time French teacher at Baroda College (now Maharaja Sayajirao University of Baroda). Sri Aurobindo was later promoted to the post of vice-principal.",Biography,Baroda and Calcutta (1893–1910),Sri Aurobindo
+1908,36,Sri Aurobindo was arrested again in May 1908 in connection with the Alipore Bomb Case.,Biography,Baroda and Calcutta (1893–1910),Sri Aurobindo
+1950,78,"When Sri Aurobindo died in 1950, Sri Aurobindo's close spiritual collaborator, Mirra Alfassa (born Alfassa) continued them's spiritual work, directed the ashram, the community of disciples which had gathered around them, and guided them's disciples.",Biography,Mirra Alfassa (The Mother) and the development of the Ashram,Sri Aurobindo

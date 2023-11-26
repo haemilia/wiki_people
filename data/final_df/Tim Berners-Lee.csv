@@ -1,10 +1,10 @@
-year,age,event,category1,category2
-2009,54,"In April 2009, Tim Berners-Lee was elected as Foreign Associate of the National Academy of Sciences.[0",summary,
-2011,56,"In 2011, Tim Berners-Lee was named as a member of the board of trustees of the Ford Foundation.",summary,
-2004,49,"In 2004, Tim Berners-Lee was knighted by Queen Elizabeth II for Tim Berners-Lee's pioneering work.",summary,
-1955,0,"Tim Berners-Lee was born on 8 June 1955 in London, England, the eldest of the four children of Mary Lee Woods and Conway Berners-Lee; Tim Berners-Lee's brother Mike is a professor of ecology and climate change management.",Early life and education,
-1969,14,"Tim Berners-Lee attended Sheen Mount Primary School, and then went on to attend south-west London's Emanuel School from 1969 to 1973, at the time a direct grant grammar school, which became an independent school in 1975.",Early life and education,
-2009,54,"In a Times article in October 2009, Tim Berners-Lee admitted that the initial pair of slashes (""//"") in a web address were ""unnecessary"".",Career and research,
-2004,49,"Tim Berners-Lee was knighted by Queen Elizabeth II in the 2004 New Year Honours ""for services to the global development of the World Wide Web"", and was invested formally on 16 July 2004.On 13 June 2007",Career and research,Awards and honours
-2004,49,"Tim Berners-Lee was also elected as a member into the American Philosophical Society in 2004 and the National Academy of Engineering in Tim Berners-Lee has been conferred honorary degrees from a number of universities around the world, including Manchester (Tim Berners-Lee's parents worked on the Manchester Mark 1 in the 1940s), Harvard and Yale.",Career and research,Awards and honours
-2013,58,"In 2013, Tim Berners-Lee was awarded the inaugural Queen Elizabeth Prize for Engineering.",Career and research,Awards and honours
+year,age,event,category1,category2,Name
+2009,54,"In April 2009, Tim Berners-Lee was elected as Foreign Associate of the National Academy of Sciences.[0",summary,,Tim Berners-Lee
+2011,56,"In 2011, Tim Berners-Lee was named as a member of the board of trustees of the Ford Foundation.",summary,,Tim Berners-Lee
+2004,49,"In 2004, Tim Berners-Lee was knighted by Queen Elizabeth II for Tim Berners-Lee's pioneering work.",summary,,Tim Berners-Lee
+1955,0,"Tim Berners-Lee was born on 8 June 1955 in London, England, the eldest of the four children of Mary Lee Woods and Conway Berners-Lee; Tim Berners-Lee's brother Mike is a professor of ecology and climate change management.",Early life and education,,Tim Berners-Lee
+1969,14,"Tim Berners-Lee attended Sheen Mount Primary School, and then went on to attend south-west London's Emanuel School from 1969 to 1973, at the time a direct grant grammar school, which became an independent school in 1975.",Early life and education,,Tim Berners-Lee
+2009,54,"In a Times article in October 2009, Tim Berners-Lee admitted that the initial pair of slashes (""//"") in a web address were ""unnecessary"".",Career and research,,Tim Berners-Lee
+2004,49,"Tim Berners-Lee was knighted by Queen Elizabeth II in the 2004 New Year Honours ""for services to the global development of the World Wide Web"", and was invested formally on 16 July 2004.On 13 June 2007",Career and research,Awards and honours,Tim Berners-Lee
+2004,49,"Tim Berners-Lee was also elected as a member into the American Philosophical Society in 2004 and the National Academy of Engineering in Tim Berners-Lee has been conferred honorary degrees from a number of universities around the world, including Manchester (Tim Berners-Lee's parents worked on the Manchester Mark 1 in the 1940s), Harvard and Yale.",Career and research,Awards and honours,Tim Berners-Lee
+2013,58,"In 2013, Tim Berners-Lee was awarded the inaugural Queen Elizabeth Prize for Engineering.",Career and research,Awards and honours,Tim Berners-Lee

@@ -1,9 +1,9 @@
-year,age,event,category1,category2
-2023,88,"As of November 2023, Charles Koch was ranked as the 22nd richest man in the world on the Bloomberg Billionaires Index, with an estimated net worth of $60 billion.",summary,
-1967,32,"Charles Koch has been co-owner, chairman, and chief executive officer of Koch Industries since 1967, while his late brother David Koch served as executive vice president.",summary,
-2007,72,"Charles Koch has published four books detailing Charles Koch's business philosophy, The Science of Success (2007), Market Based Management, Good Profit (2015), and Believe in People (2020).",summary,
-1957,22,"Charles Koch received a Bachelor of Science (B.S.) in General Engineering in 1957, a Master of Science (M.S.) in Nuclear Engineering in 1958, and a second M.S. in Chemical Engineering in 1959.",Early life and education,
-2008,73,"In 2008, Charles Koch was included in Businessweek's list of top 50 American givers.",Political activities and philanthropy,Libertarianism
-2022,87,"In 2022, Charles Koch was named one of the US' top 'climate villains' by The Guardian.",Political activities and philanthropy,Climate change
-1980,45,Charles Koch supported his brother's candidacy for vice president on the Libertarian Party ticket in 1980.,Political activities and philanthropy,Political campaigns
-2011,76,"In 2011, Charles Koch was awarded the William E. Simon Prize for Philanthropic Leadership.",Political activities and philanthropy,Political campaigns
+year,age,event,category1,category2,Name
+2023,88,"As of November 2023, Charles Koch was ranked as the 22nd richest man in the world on the Bloomberg Billionaires Index, with an estimated net worth of $60 billion.",summary,,Charles Koch
+1967,32,"Charles Koch has been co-owner, chairman, and chief executive officer of Koch Industries since 1967, while his late brother David Koch served as executive vice president.",summary,,Charles Koch
+2007,72,"Charles Koch has published four books detailing Charles Koch's business philosophy, The Science of Success (2007), Market Based Management, Good Profit (2015), and Believe in People (2020).",summary,,Charles Koch
+1957,22,"Charles Koch received a Bachelor of Science (B.S.) in General Engineering in 1957, a Master of Science (M.S.) in Nuclear Engineering in 1958, and a second M.S. in Chemical Engineering in 1959.",Early life and education,,Charles Koch
+2008,73,"In 2008, Charles Koch was included in Businessweek's list of top 50 American givers.",Political activities and philanthropy,Libertarianism,Charles Koch
+2022,87,"In 2022, Charles Koch was named one of the US' top 'climate villains' by The Guardian.",Political activities and philanthropy,Climate change,Charles Koch
+1980,45,Charles Koch supported his brother's candidacy for vice president on the Libertarian Party ticket in 1980.,Political activities and philanthropy,Political campaigns,Charles Koch
+2011,76,"In 2011, Charles Koch was awarded the William E. Simon Prize for Philanthropic Leadership.",Political activities and philanthropy,Political campaigns,Charles Koch

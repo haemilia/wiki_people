@@ -1,28 +1,28 @@
-year,age,event,category1,category2
-1986,32,"Oprah Winfrey is best known for her talk show, The Oprah Winfrey Show, broadcast from Chicago, which ran in national syndication for 25 years, from 1986 to 2011.",summary,
-2007,53,"By 2007, Oprah Winfrey was often ranked as the most influential woman in the world's.[0",summary,
-2008,54,"Oprah Winfrey also emerged as a political force in the 2008 presidential race, with Oprah Winfrey's endorsement of Barack Obama estimated to have been worth about one million votes during the 2008 Democratic primaries.",summary,
-2013,59,"In 2013, Oprah Winfrey was awarded the Presidential Medal of Freedom by Barack Obama, and received honorary doctorate degrees from Duke and Harvard.",summary,
-1994,40,"In 1994, Oprah Winfrey was inducted into the National Women's Hall of Fame.",summary,
-2021,67,Oprah Winfrey was elected as a member of the American Academy of Arts and Sciences in 2021.,summary,
-1954,0,"Oprah Winfrey was born on January 29, 1954; her first name was spelled Orpah on Oprah Winfrey's birth certificate after the biblical figure in the Book of Ruth, but people mispronounced her first name regularly and ""Oprah"" stuck.",Early life,
-1900,-54,"her maternal grandmother, Hattie Mae (Presley) Lee (April 15, 1900 – February 27, 1963) was so poor that Oprah Winfrey often wore dresses made of potato sacks, for which other children made fun of Oprah Winfrey.",Early life,
-1962,8,"By 1962, a teenaged mother, Vernita Lee was having difficulty raising both daughters, so Oprah Winfrey was temporarily sent to live with father Vernon Winfrey in Nashville, Tennessee.",Early life,
-1986,32,"has stated Oprah Winfrey was molested by Oprah Winfrey's cousin, uncle, and a family friend, starting when Oprah Winfrey was nine years old, something Oprah Winfrey first announced on a 1986 episode of Oprah Winfrey's TV show regarding sexual abuse.",Early life,
-1987,33,"However, Oprah Winfrey did not deliver Oprah Winfrey's final paper and receive Oprah Winfrey's degree until 1987, by which time Oprah Winfrey was a successful television personality.Oprah Winfrey",Early life,
-1977,23,"In 1977, Oprah Winfrey was removed as co-anchor and worked in lower profile positions at Baltimore's WJZ-TV.",Television,
-1978,24,"Oprah Winfrey was then recruited to join Richard Sher as co-host of Baltimore's WJZ-TV's local talk show People Are Talking, which premiered on August 14, 1978.",Television,
-1992,38,"Oprah Winfrey is also the president of Harpo Productions (Oprah spelled backwards), a film and TV production company behind WLS-TV's low-rated half-hour morning talk show, AM Chicago, Donahue, Rachael Ray, The Dr. Oz's Show and many others. Oprah Winfrey also moderated three ABC Afterschool Specials from 1992 to 1994.On January 15, 2008",Television,
-2002,48,"Similarly, in 2002, Oprah Winfrey purchased Oprah Winfrey's father's home in Franklin, Tennessee and a lakefront condo in Milwaukee, Wisconsin.",Personal life,Homes
-2008,54,"In 2008, Oprah Winfrey sold Oprah Winfrey's penthouse apartment in Atlanta, Georgia.",Personal life,Homes
-2000,46,"By 2000, with a net worth of $800 million, Oprah Winfrey is believed to have been the richest African American of the 20th century.",Personal life,Personal wealth
-2004,50,"Oprah Winfrey was called ""arguably the world's's most powerful woman"" by CNN and TIME, ""arguably the most influential woman in the world's"" by The American Spectator, ""one of the 100 people who most influenced the 20th Century"" and ""one of the most influential people"" from 2004 to 2011 by TIME. Oprah Winfrey is the only person to have appeared in the latter list on ten occasions.",Influence,Rankings
-2005,51,"Forbes named Oprah Winfrey the world's most powerful celebrity in 2005, 2007, 2008, 2010, and 2013.As chairman of Harpo Inc., Oprah Winfrey was named the most powerful woman in entertainment by The Hollywood Reporter in 2008.",Influence,Rankings
-2005,51,"""In 2005, Oprah Winfrey was named the greatest woman in American history as part of a public poll as part of The Greatest American.",Influence,Rankings
-2007,53,Oprah Winfrey's highest rating came in 2007 when Oprah Winfrey was statistically tied with Hillary Clinton for first place.,Influence,Rankings
-2010,56,"In a list compiled by the British magazine New Statesman in September 2010, Oprah Winfrey was voted 38th in the list of ""the world's's 50 Most Influential Figures 2010"".",Influence,Rankings
-1989,35,"In 1989, Oprah Winfrey was accepted into the NAACP Image Award Hall of Fame.",Influence,Rankings
-2000,46,"In 2000, Oprah Winfrey was awarded the Spingarn Medal from the NAACP.",Influence,Spiritual leadership
-2002,48,"In 2002, Christianity Today published an article called ""The Church of O"" in which Christianity Today concluded that Oprah Winfrey had emerged as an influential spiritual leader.",Influence,Spiritual leadership
-2012,58,"By 2012, Oprah Winfrey had given away about $400 million to educational causes.",Influence,Philanthropy
-2012,58,"As of 2012, Oprah Winfrey had also given over 400 scholarships to Morehouse College in Atlanta, Georgia.",Influence,Philanthropy
+year,age,event,category1,category2,Name
+1986,32,"Oprah Winfrey is best known for her talk show, The Oprah Winfrey Show, broadcast from Chicago, which ran in national syndication for 25 years, from 1986 to 2011.",summary,,Oprah Winfrey
+2007,53,"By 2007, Oprah Winfrey was often ranked as the most influential woman in the world's.[0",summary,,Oprah Winfrey
+2008,54,"Oprah Winfrey also emerged as a political force in the 2008 presidential race, with Oprah Winfrey's endorsement of Barack Obama estimated to have been worth about one million votes during the 2008 Democratic primaries.",summary,,Oprah Winfrey
+2013,59,"In 2013, Oprah Winfrey was awarded the Presidential Medal of Freedom by Barack Obama, and received honorary doctorate degrees from Duke and Harvard.",summary,,Oprah Winfrey
+1994,40,"In 1994, Oprah Winfrey was inducted into the National Women's Hall of Fame.",summary,,Oprah Winfrey
+2021,67,Oprah Winfrey was elected as a member of the American Academy of Arts and Sciences in 2021.,summary,,Oprah Winfrey
+1954,0,"Oprah Winfrey was born on January 29, 1954; her first name was spelled Orpah on Oprah Winfrey's birth certificate after the biblical figure in the Book of Ruth, but people mispronounced her first name regularly and ""Oprah"" stuck.",Early life,,Oprah Winfrey
+1900,-54,"her maternal grandmother, Hattie Mae (Presley) Lee (April 15, 1900 – February 27, 1963) was so poor that Oprah Winfrey often wore dresses made of potato sacks, for which other children made fun of Oprah Winfrey.",Early life,,Oprah Winfrey
+1962,8,"By 1962, a teenaged mother, Vernita Lee was having difficulty raising both daughters, so Oprah Winfrey was temporarily sent to live with father Vernon Winfrey in Nashville, Tennessee.",Early life,,Oprah Winfrey
+1986,32,"has stated Oprah Winfrey was molested by Oprah Winfrey's cousin, uncle, and a family friend, starting when Oprah Winfrey was nine years old, something Oprah Winfrey first announced on a 1986 episode of Oprah Winfrey's TV show regarding sexual abuse.",Early life,,Oprah Winfrey
+1987,33,"However, Oprah Winfrey did not deliver Oprah Winfrey's final paper and receive Oprah Winfrey's degree until 1987, by which time Oprah Winfrey was a successful television personality.Oprah Winfrey",Early life,,Oprah Winfrey
+1977,23,"In 1977, Oprah Winfrey was removed as co-anchor and worked in lower profile positions at Baltimore's WJZ-TV.",Television,,Oprah Winfrey
+1978,24,"Oprah Winfrey was then recruited to join Richard Sher as co-host of Baltimore's WJZ-TV's local talk show People Are Talking, which premiered on August 14, 1978.",Television,,Oprah Winfrey
+1992,38,"Oprah Winfrey is also the president of Harpo Productions (Oprah spelled backwards), a film and TV production company behind WLS-TV's low-rated half-hour morning talk show, AM Chicago, Donahue, Rachael Ray, The Dr. Oz's Show and many others. Oprah Winfrey also moderated three ABC Afterschool Specials from 1992 to 1994.On January 15, 2008",Television,,Oprah Winfrey
+2002,48,"Similarly, in 2002, Oprah Winfrey purchased Oprah Winfrey's father's home in Franklin, Tennessee and a lakefront condo in Milwaukee, Wisconsin.",Personal life,Homes,Oprah Winfrey
+2008,54,"In 2008, Oprah Winfrey sold Oprah Winfrey's penthouse apartment in Atlanta, Georgia.",Personal life,Homes,Oprah Winfrey
+2000,46,"By 2000, with a net worth of $800 million, Oprah Winfrey is believed to have been the richest African American of the 20th century.",Personal life,Personal wealth,Oprah Winfrey
+2004,50,"Oprah Winfrey was called ""arguably the world's's most powerful woman"" by CNN and TIME, ""arguably the most influential woman in the world's"" by The American Spectator, ""one of the 100 people who most influenced the 20th Century"" and ""one of the most influential people"" from 2004 to 2011 by TIME. Oprah Winfrey is the only person to have appeared in the latter list on ten occasions.",Influence,Rankings,Oprah Winfrey
+2005,51,"Forbes named Oprah Winfrey the world's most powerful celebrity in 2005, 2007, 2008, 2010, and 2013.As chairman of Harpo Inc., Oprah Winfrey was named the most powerful woman in entertainment by The Hollywood Reporter in 2008.",Influence,Rankings,Oprah Winfrey
+2005,51,"""In 2005, Oprah Winfrey was named the greatest woman in American history as part of a public poll as part of The Greatest American.",Influence,Rankings,Oprah Winfrey
+2007,53,Oprah Winfrey's highest rating came in 2007 when Oprah Winfrey was statistically tied with Hillary Clinton for first place.,Influence,Rankings,Oprah Winfrey
+2010,56,"In a list compiled by the British magazine New Statesman in September 2010, Oprah Winfrey was voted 38th in the list of ""the world's's 50 Most Influential Figures 2010"".",Influence,Rankings,Oprah Winfrey
+1989,35,"In 1989, Oprah Winfrey was accepted into the NAACP Image Award Hall of Fame.",Influence,Rankings,Oprah Winfrey
+2000,46,"In 2000, Oprah Winfrey was awarded the Spingarn Medal from the NAACP.",Influence,Spiritual leadership,Oprah Winfrey
+2002,48,"In 2002, Christianity Today published an article called ""The Church of O"" in which Christianity Today concluded that Oprah Winfrey had emerged as an influential spiritual leader.",Influence,Spiritual leadership,Oprah Winfrey
+2012,58,"By 2012, Oprah Winfrey had given away about $400 million to educational causes.",Influence,Philanthropy,Oprah Winfrey
+2012,58,"As of 2012, Oprah Winfrey had also given over 400 scholarships to Morehouse College in Atlanta, Georgia.",Influence,Philanthropy,Oprah Winfrey
