@@ -1,3 +1,3 @@
-year,age,event,category1,category2
-1932,0,Raisa Gorbachev was born on 5 January 1932 in the city of Rubtsovsk in the Altai region of Siberia.,Early life and education,
-1957,25,"Raisa Gorbachev gave birth to a daughter, Irina Mikhailovna (married name: Virganskaya; Ирина Михайловна Вирганская), on 6 January 1957.",Life with Mikhail Gorbachev,
+year,age,event,category1,category2,Name
+1932,0,Raisa Gorbachev was born on 5 January 1932 in the city of Rubtsovsk in the Altai region of Siberia.,Early life and education,,Raisa Gorbachev
+1957,25,"Raisa Gorbachev gave birth to a daughter, Irina Mikhailovna (married name: Virganskaya; Ирина Михайловна Вирганская), on 6 January 1957.",Life with Mikhail Gorbachev,,Raisa Gorbachev

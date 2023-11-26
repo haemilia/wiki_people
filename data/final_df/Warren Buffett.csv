@@ -1,26 +1,26 @@
-year,age,event,category1,category2
-1947,17,Warren Buffett entered the Wharton School of the University of Pennsylvania in 1947 before graduating from the University of Nebraska at 19.,summary,
-1970,40,"Since 1970, Warren Buffett has presided as the chairman and largest shareholder of a textile manufacturing firm, Berkshire Hathaway.",summary,
-2010,80,"Warren Buffett founded the Giving Pledge in 2010 with Bill Gates, whereby billionaires pledge to give away at least half of billionaires's fortunes.",summary,
-1930,0,"Warren Buffett was born on 30 August 1930 in Omaha, Nebraska, as the second of three children and the only son of Leila (née Stahl) and Congressman Howard Buffett.",Early life and education,
-1000,-930,"Warren Buffett was inspired by a book Warren Buffett borrowed from the Omaha public library at age seven, One Thousand Ways to Make $1000.",Early life and education,
-1944,14,"On Warren Buffett's first income tax return in 1944, Warren Buffett took a $35 deduction for the use of Warren Buffett's bicycle and watch on Warren Buffett's paper route.",Early life and education,
-1947,17,"By the time Warren Buffett finished college, Warren Buffett had amassed $9,800 in savings (about $121,000 today).In 1947, Warren Buffett matriculated at the Wharton School of the University of Pennsylvania.",Early life and education,
-1951,21,Warren Buffett earned a Master of Science in economics from Columbia Business School of Columbia University in 1951.,Early life and education,
-1951,21,"Warren Buffett worked from 1951 to 1954 at Buffett-Falk & Co. as an investment salesman; from 1954 to 1956 at Graham-Newman Corp. as a securities analyst; from 1956 to 1969 at Buffett Partnership, Ltd. as a general partner; and from 1970 as chairman and CEO of Berkshire Hathaway Inc.",Business career,Early business career
-2014,84,"On August 20, 2014, Warren Buffett was fined $896,000 for failing to report December 9, 2013, purchase of shares in USG Corporation as required.",Business career,A capitalized Berkshire
-2021,91,"In a June 2021 interview with CNBC, Warren Buffett said that the economic impact of the COVID-19 pandemic has increased economic inequality and bemoaned that most people are unaware that ""hundreds of thousands or millions"" of small businesses have been negatively impacted.",COVID-19 pandemic,
-2007,77,"Warren Buffett supported the hire of Bo Pelini, following the 2007 season, stating, ""It was getting kind of desperate around here"".",Personal life,
-2009,79,"Warren Buffett watched the 2009 game against Oklahoma from the Nebraska football sideline, after being named an honorary assistant coach.[0",Personal life,
-2023,93,"Warren Buffett was a longtime friend of singer-songwriter Jimmy Buffett until singer-songwriter Jimmy Buffett's death in September 2023, and they would often refer to one another as ""Uncle Warren"" and ""Cousin Jimmy"".",Personal life,
-2012,82,"On April 11, 2012, Warren Buffett was diagnosed with stage I prostate cancer during a routine test.",Personal life,Health
-2008,78,"In 2008, Warren Buffett was ranked by Forbes as the richest person in the world with an estimated net worth of approximately $62 billion.",Wealth and philanthropy,
-2009,79,"In 2009, after donating billions of dollars to charity, Warren Buffett was ranked as the second richest man in the United States with a net worth of $37 billion with only Bill Gates ranked higher than Warren Buffett.",Wealth and philanthropy,
-2013,83,"Warren Buffett's net worth had risen to $58.5 billion as of September 2013.In 1999, Warren Buffett was named the top money manager of the Twentieth Century in a survey by the Carson Group, ahead of Peter Lynch and John Templeton.",Wealth and philanthropy,
-2007,77,"In 2007, Warren Buffett was listed among Time's 100 Most Influential People in the world.",Wealth and philanthropy,
-2021,91,"Warren Buffett announced Warren Buffett's resignation as a trustee of the Bill & Melinda Gates Foundation (BMGF) on June 23, 2021.This",Wealth and philanthropy,
-2018,88,"In 2018, after making almost $3.4 billion donations, Warren Buffett was ranked 3rd in the Forbes' List of Billionaire 2018.Warren",Wealth and philanthropy,
-2003,73,Warren Buffett was also a financial advisor to Republican candidate Arnold Schwarzenegger during the 2003 California gubernatorial election.,Political and public policy views,
-2005,75,Warren Buffett substantially reduced Warren Buffett's stake in 2005 as changing interest rates increased the costs of holding currency contracts.,Political and public policy views,Dollar and gold
-2018,88,"In an interview with CNBC in January 2018, Warren Buffett said that the recent craze over Bitcoin and other cryptocurrencies won't end well, adding that ""when it happens or how or anything else, Warren Buffett don't know"".",Political and public policy views,Bitcoin and cryptocurrencies
-2010,80,"Some film and television cameos Warren Buffett has made include Wall Street: Money Never Sleeps (2010), The Office (U.S.), All My Children, and Entourage (2015).",Film and television,
+year,age,event,category1,category2,Name
+1947,17,Warren Buffett entered the Wharton School of the University of Pennsylvania in 1947 before graduating from the University of Nebraska at 19.,summary,,Warren Buffett
+1970,40,"Since 1970, Warren Buffett has presided as the chairman and largest shareholder of a textile manufacturing firm, Berkshire Hathaway.",summary,,Warren Buffett
+2010,80,"Warren Buffett founded the Giving Pledge in 2010 with Bill Gates, whereby billionaires pledge to give away at least half of billionaires's fortunes.",summary,,Warren Buffett
+1930,0,"Warren Buffett was born on 30 August 1930 in Omaha, Nebraska, as the second of three children and the only son of Leila (née Stahl) and Congressman Howard Buffett.",Early life and education,,Warren Buffett
+1000,-930,"Warren Buffett was inspired by a book Warren Buffett borrowed from the Omaha public library at age seven, One Thousand Ways to Make $1000.",Early life and education,,Warren Buffett
+1944,14,"On Warren Buffett's first income tax return in 1944, Warren Buffett took a $35 deduction for the use of Warren Buffett's bicycle and watch on Warren Buffett's paper route.",Early life and education,,Warren Buffett
+1947,17,"By the time Warren Buffett finished college, Warren Buffett had amassed $9,800 in savings (about $121,000 today).In 1947, Warren Buffett matriculated at the Wharton School of the University of Pennsylvania.",Early life and education,,Warren Buffett
+1951,21,Warren Buffett earned a Master of Science in economics from Columbia Business School of Columbia University in 1951.,Early life and education,,Warren Buffett
+1951,21,"Warren Buffett worked from 1951 to 1954 at Buffett-Falk & Co. as an investment salesman; from 1954 to 1956 at Graham-Newman Corp. as a securities analyst; from 1956 to 1969 at Buffett Partnership, Ltd. as a general partner; and from 1970 as chairman and CEO of Berkshire Hathaway Inc.",Business career,Early business career,Warren Buffett
+2014,84,"On August 20, 2014, Warren Buffett was fined $896,000 for failing to report December 9, 2013, purchase of shares in USG Corporation as required.",Business career,A capitalized Berkshire,Warren Buffett
+2021,91,"In a June 2021 interview with CNBC, Warren Buffett said that the economic impact of the COVID-19 pandemic has increased economic inequality and bemoaned that most people are unaware that ""hundreds of thousands or millions"" of small businesses have been negatively impacted.",COVID-19 pandemic,,Warren Buffett
+2007,77,"Warren Buffett supported the hire of Bo Pelini, following the 2007 season, stating, ""It was getting kind of desperate around here"".",Personal life,,Warren Buffett
+2009,79,"Warren Buffett watched the 2009 game against Oklahoma from the Nebraska football sideline, after being named an honorary assistant coach.[0",Personal life,,Warren Buffett
+2023,93,"Warren Buffett was a longtime friend of singer-songwriter Jimmy Buffett until singer-songwriter Jimmy Buffett's death in September 2023, and they would often refer to one another as ""Uncle Warren"" and ""Cousin Jimmy"".",Personal life,,Warren Buffett
+2012,82,"On April 11, 2012, Warren Buffett was diagnosed with stage I prostate cancer during a routine test.",Personal life,Health,Warren Buffett
+2008,78,"In 2008, Warren Buffett was ranked by Forbes as the richest person in the world with an estimated net worth of approximately $62 billion.",Wealth and philanthropy,,Warren Buffett
+2009,79,"In 2009, after donating billions of dollars to charity, Warren Buffett was ranked as the second richest man in the United States with a net worth of $37 billion with only Bill Gates ranked higher than Warren Buffett.",Wealth and philanthropy,,Warren Buffett
+2013,83,"Warren Buffett's net worth had risen to $58.5 billion as of September 2013.In 1999, Warren Buffett was named the top money manager of the Twentieth Century in a survey by the Carson Group, ahead of Peter Lynch and John Templeton.",Wealth and philanthropy,,Warren Buffett
+2007,77,"In 2007, Warren Buffett was listed among Time's 100 Most Influential People in the world.",Wealth and philanthropy,,Warren Buffett
+2021,91,"Warren Buffett announced Warren Buffett's resignation as a trustee of the Bill & Melinda Gates Foundation (BMGF) on June 23, 2021.This",Wealth and philanthropy,,Warren Buffett
+2018,88,"In 2018, after making almost $3.4 billion donations, Warren Buffett was ranked 3rd in the Forbes' List of Billionaire 2018.Warren",Wealth and philanthropy,,Warren Buffett
+2003,73,Warren Buffett was also a financial advisor to Republican candidate Arnold Schwarzenegger during the 2003 California gubernatorial election.,Political and public policy views,,Warren Buffett
+2005,75,Warren Buffett substantially reduced Warren Buffett's stake in 2005 as changing interest rates increased the costs of holding currency contracts.,Political and public policy views,Dollar and gold,Warren Buffett
+2018,88,"In an interview with CNBC in January 2018, Warren Buffett said that the recent craze over Bitcoin and other cryptocurrencies won't end well, adding that ""when it happens or how or anything else, Warren Buffett don't know"".",Political and public policy views,Bitcoin and cryptocurrencies,Warren Buffett
+2010,80,"Some film and television cameos Warren Buffett has made include Wall Street: Money Never Sleeps (2010), The Office (U.S.), All My Children, and Entourage (2015).",Film and television,,Warren Buffett

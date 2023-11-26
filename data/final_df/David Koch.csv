@@ -1,14 +1,14 @@
-year,age,event,category1,category2
-1979,39,"David Koch became president of the subsidiary Koch Engineering in 1979 and became a co-owner of the family business: Koch Industries, the second largest privately held company in the United States (along with elder brother Charles) in 1983.",summary,
-2019,79,"As of June 2019, David Koch was ranked as the 11th-richest person in the world (tied with elder brother Charles), with a fortune of $50.5 billion.",summary,
-1962,22,"David Koch attended Massachusetts Institute of Technology (MIT), earning both a bachelor's (1962) and a master's degree (1963) in chemical engineering.",Early life and education,
-1979,39,"David Koch founded Koch Industries's New York City office and in 1979 David Koch became the president of David Koch's own division, Koch Engineering, renamed Chemical Technology Group.",Role at Koch Industries,
-2018,78,"David Koch's was announced on June 5, 2018.",Role at Koch Industries,
-1980,40,"David Koch was the Libertarian Party's's vice-presidential candidate in the 1980 presidential election, sharing the party ticket with presidential candidate Ed Clark.",Political involvement,Campaigns
-2011,71,"In an impromptu interview with the blog ThinkProgress, David Koch was quoted as saying David Koch would like the new, 2011 Republican Congress to ""cut the hell out of spending, balance the budget, reduce regulations, and support business.""",Political involvement,Views
-2012,72,David Koch contributed almost entirely to Republican candidates in 2012.,Political involvement,Views
-1988,48,David Koch sat on the Board of Trustees of NewYork–Presbyterian Hospital from 1988 until David Koch's death in 2019.Overall,Philanthropy,
-2019,79,"As of June 2019, David Koch was ranked as the 11th-richest person in the world (tied with David Koch's brother Charles), with a fortune of $50.5 billion.",Wealth,
-1991,51,"In February 1991, David Koch was seriously injured as a passenger on board USAir Flight 1493 when USAir Flight 1493 collided with another aircraft on a runway at Los Angeles International Airport, killing 35 people.",Personal life,
-2014,74,"David Koch survived and said in an interview in 2014 that collided helped change David Koch's life and prompted David Koch to become ""tremendously philanthropic"".",Personal life,
-1992,52,"In 1992, David Koch was diagnosed with prostate cancer.",Personal life,
+year,age,event,category1,category2,Name
+1979,39,"David Koch became president of the subsidiary Koch Engineering in 1979 and became a co-owner of the family business: Koch Industries, the second largest privately held company in the United States (along with elder brother Charles) in 1983.",summary,,David Koch
+2019,79,"As of June 2019, David Koch was ranked as the 11th-richest person in the world (tied with elder brother Charles), with a fortune of $50.5 billion.",summary,,David Koch
+1962,22,"David Koch attended Massachusetts Institute of Technology (MIT), earning both a bachelor's (1962) and a master's degree (1963) in chemical engineering.",Early life and education,,David Koch
+1979,39,"David Koch founded Koch Industries's New York City office and in 1979 David Koch became the president of David Koch's own division, Koch Engineering, renamed Chemical Technology Group.",Role at Koch Industries,,David Koch
+2018,78,"David Koch's was announced on June 5, 2018.",Role at Koch Industries,,David Koch
+1980,40,"David Koch was the Libertarian Party's's vice-presidential candidate in the 1980 presidential election, sharing the party ticket with presidential candidate Ed Clark.",Political involvement,Campaigns,David Koch
+2011,71,"In an impromptu interview with the blog ThinkProgress, David Koch was quoted as saying David Koch would like the new, 2011 Republican Congress to ""cut the hell out of spending, balance the budget, reduce regulations, and support business.""",Political involvement,Views,David Koch
+2012,72,David Koch contributed almost entirely to Republican candidates in 2012.,Political involvement,Views,David Koch
+1988,48,David Koch sat on the Board of Trustees of NewYork–Presbyterian Hospital from 1988 until David Koch's death in 2019.Overall,Philanthropy,,David Koch
+2019,79,"As of June 2019, David Koch was ranked as the 11th-richest person in the world (tied with David Koch's brother Charles), with a fortune of $50.5 billion.",Wealth,,David Koch
+1991,51,"In February 1991, David Koch was seriously injured as a passenger on board USAir Flight 1493 when USAir Flight 1493 collided with another aircraft on a runway at Los Angeles International Airport, killing 35 people.",Personal life,,David Koch
+2014,74,"David Koch survived and said in an interview in 2014 that collided helped change David Koch's life and prompted David Koch to become ""tremendously philanthropic"".",Personal life,,David Koch
+1992,52,"In 1992, David Koch was diagnosed with prostate cancer.",Personal life,,David Koch
