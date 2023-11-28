@@ -8,6 +8,7 @@ import pandas as pd
 from pathlib import Path
 import os
 
+
 HOME_PATH = Path(r"C:\Users\lhi30\Haein\2023\YBIGTA\2023-2\DA\Wiki_People\Share")
 def get_visualization_data(relative_path = "data/final_df/", labeled = True) -> dict:
     """
@@ -104,7 +105,7 @@ def generate_timeline(person_name: str, person_df: pd.DataFrame) -> plotly.graph
 app = dash.Dash(__name__)
 
 # Tableau link
-tableau_link = 'https://public.tableau.com/views/urachacha_wikikikik/1_1?:language=en-US&:display_count=n&:origin=viz_share_link'
+tableau_link = 'https://public.tableau.com/views/urachacha_wikikikik_final/1_1?:language=ko-KR&publish=yes&:display_count=n&:origin=viz_share_link'
 
 df_dict = get_visualization_data()
 name_figures = {}
