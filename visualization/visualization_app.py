@@ -8,6 +8,7 @@ import pandas as pd
 from pathlib import Path
 import os
 
+
 HOME_PATH = Path(r"C:\Users\lhi30\Haein\2023\YBIGTA\2023-2\DA\Wiki_People\Share")
 def get_visualization_data(relative_path = "data/final_df/", labeled = True) -> dict:
     """
