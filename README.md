@@ -5,8 +5,10 @@
 - Used AllenNLP's **Coreference Resolution** and spaCy's **POS-tagging** to extract relevant life events with mentions of a specific year.
 - Used OpenAI API to divide life events into either Career / Personal Life event.
 - Each person's life is visualized using Plotly and Dash. Summary visualizations made using Tableau are also available.
-[Example of Single Person Visualization](visualization/example_images/dash_plotly_visualization_example.png)
-[Preview of Summary Tableau Visualization](visualization\example_images\tableau_visualization_example.png)
+
+![Example of Single Person Visualization](visualization/example_images/dash_plotly_visualization_example.png)
+![Preview of Summary Tableau Visualization](visualization\example_images\tableau_visualization_example.png)
+
 ## Dependencies
 - Due to AllenNLP's Coreference Resolution process being unstable, it is recommended to use separate environments for analysis and visualization.
 - Analysis dependencies are not guaranteed to be supported. 
