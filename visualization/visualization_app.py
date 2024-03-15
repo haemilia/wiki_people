@@ -9,10 +9,14 @@ from pathlib import Path
 import os
 
 
-HOME_PATH = Path(r"C:\Users\lhi30\Haein\2023\YBIGTA\2023-2\DA\Wiki_People\Share")
+def get_root_dir():
+    root_dir = input("Please input root directory: ")
+    return root_dir
+HOME_PATH = Path(get_root_dir()) # Input root directory
+
 def get_visualization_data(relative_path = "data/final_df/", labeled = True) -> dict:
     """
-    From the input path, return a dictionary od pandas DataFrames, with the csv files' names as the keys
+    From the input path, return a dictionary of pandas DataFrames, with the csv files' names as the keys
 
     Parameters:
     - relative_path (str): The relative path of the folder with all the csv files ready for visualization
