@@ -13,7 +13,7 @@
 conda env create -f PATH/TO/DEPENDENCIES.yaml -p PATH/TO/YOUR/CONDA/ENVIRONMENTS/your_env_name
 ```
 ## Visualization Demo
-You must install the dependencies for the visualization, and activate the environment. Then, in the command prompt, do the following commands:
+You must install the [dependencies for the visualization](visualization/dependencies_visualization.yaml), and activate the environment. Then, in the command prompt, do the following commands:
 1. Run `visualization_app.py`
 ```bash
 python visualization/visualization_app.py
