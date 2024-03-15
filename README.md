@@ -7,7 +7,7 @@
 - Each person's life is visualized using Plotly and Dash. Summary visualizations made using Tableau are also available.
 
 ![Example of Single Person Visualization](visualization/example_images/dash_plotly_visualization_example.png)
-![Preview of Summary Tableau Visualization](visualization\example_images\tableau_visualization_example.png)
+![Preview of Summary Tableau Visualization](visualization/example_images/tableau_visualization_example.png)
 
 ## Dependencies
 - Due to AllenNLP's Coreference Resolution process being unstable, it is recommended to use separate environments for analysis and visualization.
