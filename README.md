@@ -1,5 +1,8 @@
 # 으라차차~ 위키키킼! - Wikipedia 기반 유명인 인생사 시각화
-# Visualization of Famous People's Biographies Based on Wikipedia
+# Wikikikik: Visualize the Lives of Famous People Based on Wikipedia Articles
+
+## Objective
+Visualize various events of famous people's lives based on their wikipedia articles
 ## Description
 - Biographical Visualization based on Wikipedia articles of [various famous people](https://www.biographyonline.net/people/famous-twentieth-century.html). 
 - Used AllenNLP's **Coreference Resolution** and spaCy's **POS-tagging** to extract relevant life events with mentions of a specific year.
